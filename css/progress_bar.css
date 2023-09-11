@@ -70,3 +70,8 @@
 	0% { transform: rotate(0deg); }
 	100% { transform: rotate(359deg); }
 }
+
+/* .loading-img {
+	background: url(\img\1002.gif) no-repeat center center;
+	background-size: cover;
+  } */
